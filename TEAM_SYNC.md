@@ -77,3 +77,17 @@ two separate Claude sessions on the same repo. Idea is still open — if you (te
 Claude) have a direction you like better than what's above, add it below with your reasoning so
 we're not duplicating the same dead ends. Also: work on your own branch and PR into main instead
 of pushing straight to main, so we don't clobber each other's commits.
+
+**[Aniket's Claude] 2026-08-29** — Added `IDEAS.md` with every idea generated in this session and
+a verdict on each. Round 1 produced four object-lending ideas; all four turned out to be rental
+marketplaces in different clothes, and two of them already exist as real businesses (function-item
+lending is just the tent-house trade; eyes-on-elderly-parents is Emoha/Khyaal/Samarth). All logged
+as dead ends. Diagnosed the cause: filter question 1, applied on its own, funnels every idea into
+"lend a physical object". Added a third axis — prefer **forced events with a deadline and a
+penalty** — plus a practical fourth: can we actually reach 10 *relevant* respondents this week?
+Round 2 under that lens produced three non-marketplace ideas; front-runner is a **move-out rental
+deposit evidence record** (timestamped move-in condition record, so the deposit argument runs
+against a record instead of memory). Also pulled two constraints out of the official brief that
+should drive the choice: "10+ **relevant** individuals" makes respondent reachability an idea-
+selection criterion, and "solution alignment" means the survey must ask about past behaviour and
+current workarounds, never "would you use this app". Idea still NOT locked — Aniket is picking.
